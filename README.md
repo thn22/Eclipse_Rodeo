@@ -1,9 +1,9 @@
 # What to watch next?
 ### Eclipse_Rodeo
 **Team Members:**
-  Ethan Price
-  Delgertsetseg Nyamsuren
-  Kirsten Larson
+- Ethan Price
+- Delgertsetseg Nyamsuren
+- Kirsten Larson
 
 **Proposal:**
 
@@ -17,23 +17,23 @@
 5. What genre has the highest rating across all streaming services? (Movies)
 
 **Initial Data Source:**
-  Kaggle - HBO Max TV Shows and Movies by Victor Soeiro
+- Kaggle - HBO Max TV Shows and Movies by Victor Soeiro
   https://www.kaggle.com/datasets/victorsoeiro/hbo-max-tv-shows-and-movies
 
-  Kaggle - Netflix TV Shows and Movies by Victor Soeiro
+- Kaggle - Netflix TV Shows and Movies by Victor Soeiro
   https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv
 
-  Kaggle - Hulu TV Shows and Movies by Victor Soeiro
+- Kaggle - Hulu TV Shows and Movies by Victor Soeiro
   https://www.kaggle.com/datasets/victorsoeiro/hulu-tv-shows-and-movies?select=titles.csv
 
-  OMDb API
+- OMDb API
   https://www.omdbapi.com/
 
 **Specialist:**
-  pandas guru - Degi
-  matplotlib  expert - Kirsten
-  API enthusiast - ?
-  github power user - Ethan
-  statistician extraordinaire - Kirsten
-  master of ceremonies - Ethan
-  project management specialist - shared
+- pandas guru - ***Degi***
+- matplotlib  expert - ***Kirsten***
+- API enthusiast - ?
+- github power user - ***Ethan***
+- statistician extraordinaire - ***Kirsten***
+- master of ceremonies - ***Ethan***
+- project management specialist - **shared**
