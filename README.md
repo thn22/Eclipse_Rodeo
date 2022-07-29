@@ -1,13 +1,13 @@
 # What to watch next?
 ### Eclipse_Rodeo
 **Team Members:**
-Ethan Price
-Delgertsetseg Nyamsuren
-Kirsten Larson
+  Ethan Price
+  Delgertsetseg Nyamsuren
+  Kirsten Larson
 
 **Proposal:**
 
-Throughout the pandemic, many people filled their freetime with streaming content from Netflix, Amazon Prime and Hulu. After two plus years, people want to know -- What to watch next? Using data sources from Kaggle, we want to know which streaming service produces the best original content, which actor(s) to seek out, which long running shows are the best, and what genre is the most popular.
+  Throughout the pandemic, many people filled their freetime with streaming content from Netflix, Amazon Prime and Hulu. After two plus years, people want to know -- What to watch next? Using data sources from Kaggle, we want to know which streaming service produces the best original content, which actor(s) to seek out, which long running shows are the best, and what genre is the most popular.
 
 **Initial questions:**
 1. Which streaming service has the best original content? (Using ratings from OMDb)
@@ -17,23 +17,23 @@ Throughout the pandemic, many people filled their freetime with streaming conten
 5. What genre has the highest rating across all streaming services? (Movies)
 
 **Initial Data Source:**
-Kaggle - HBO Max TV Shows and Movies by Victor Soeiro
-https://www.kaggle.com/datasets/victorsoeiro/hbo-max-tv-shows-and-movies
+  Kaggle - HBO Max TV Shows and Movies by Victor Soeiro
+  https://www.kaggle.com/datasets/victorsoeiro/hbo-max-tv-shows-and-movies
 
-Kaggle - Netflix TV Shows and Movies by Victor Soeiro
-https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv
+  Kaggle - Netflix TV Shows and Movies by Victor Soeiro
+  https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv
 
-Kaggle - Hulu TV Shows and Movies by Victor Soeiro
-https://www.kaggle.com/datasets/victorsoeiro/hulu-tv-shows-and-movies?select=titles.csv
+  Kaggle - Hulu TV Shows and Movies by Victor Soeiro
+  https://www.kaggle.com/datasets/victorsoeiro/hulu-tv-shows-and-movies?select=titles.csv
 
-OMDb API
-https://www.omdbapi.com/
+  OMDb API
+  https://www.omdbapi.com/
 
 **Specialist:**
-pandas guru - Degi
-matplotlib  expert - Kirsten
-API enthusiast - ?
-github power user - Ethan
-statistician extraordinaire - Kirsten
-master of ceremonies - Ethan
-project management specialist - shared
+  pandas guru - Degi
+  matplotlib  expert - Kirsten
+  API enthusiast - ?
+  github power user - Ethan
+  statistician extraordinaire - Kirsten
+  master of ceremonies - Ethan
+  project management specialist - shared
